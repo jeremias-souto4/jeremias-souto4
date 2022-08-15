@@ -5,13 +5,13 @@ Me llamo Jeremias Souto. Soy estudiante de Ingenieria en Computacion en la Unive
 ### ¿Qué te interesa aprender?
 
 Me interesa mucho aprender:
--Programacion orientada a la Inteligencia Artificial y el Machine Learning.
--Programacion orientada a la Blockchain.
--Programacion orientada al desarrollo web.
+-Programacion orientada a la Inteligencia Artificial y el Machine Learning :atom:.
+-Programacion orientada a la Blockchain :moneybag:.
+-Programacion orientada al desarrollo web :newspaper:.
 
 ### ¿En qué estás trabajando?
 
-Actualmente no estoy trabajando en ningun proyecto. Me estoy concentrando en estudiar y aprender todo lo que puedo acerca de la programacion.
+Actualmente no estoy trabajando en ningun proyecto. Me estoy concentrando en estudiar y aprender todo lo que puedo acerca de la programacion :muscle:.
 
 ### ¿Cuál es tu hobby?
 
