@@ -1,4 +1,4 @@
-# **Hola Mundo**👋
+# **Hola Mundo** :grinning: :earth_americas:
 
 Me llamo Jeremias Souto. Soy estudiante de Ingenieria en Computacion en la Universidad Nacional de Tres de Febrero (**UNTREF**).
 
@@ -15,4 +15,4 @@ Actualmente no estoy trabajando en ningun proyecto. Me estoy concentrando en est
 
 ### ¿Cuál es tu hobby?
 
-Me gusta jugar al basket y al futbol. Además, me gusta mucho ver series y peliculas.
+Me gusta jugar al basket :basketball: y al futbol :soccer:. Además, me gusta mucho ver series y peliculas.
